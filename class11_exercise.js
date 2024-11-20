@@ -179,3 +179,4 @@ function StartApp() {
 
 
 StartApp();
+// i really like the way Thea refered back to the exercise in her comments for her planning, her code is very neat and organized. - Sophia 
